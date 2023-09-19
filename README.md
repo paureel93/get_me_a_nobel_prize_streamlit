@@ -25,7 +25,8 @@ SOFTWARE.
 
 
 
-
+# IMPORTANT
+Please see the main repository at https://github.com/Paureel/get_me_a_nobel_prize_streamlit . 
 
 
 <!-- PROJECT LOGO -->
